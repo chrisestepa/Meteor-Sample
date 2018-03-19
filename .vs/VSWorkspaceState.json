@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\client",
+    "\\client\\templates",
+    "\\client\\templates\\posts",
+    "\\lib",
+    "\\lib\\collections",
+    "\\server"
+  ],
+  "SelectedNode": "\\client\\templates\\posts\\post_item.js",
+  "PreviewInSolutionExplorer": false
+}
